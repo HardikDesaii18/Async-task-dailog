@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="291e6279df336a88cd67dece87beb9693df77ef1">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5f450fd40a44a52b2bb54815cb97b163085c34d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_76dc272c3af180ecba6a513dfc779e66b39ec4da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_e7a5b09e48fe79ab6b9d5f55d8d7bdf879a31216/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_a50bb7883b05405a5c623007d16a7fb752a59544/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_c49b662eaecbfce62971f6b02f285b3354b1caeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_16ec2be00544323824466447c5c9e3fd7abec773/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_515b10d2fd1f8f5ac6b23b77ef81dc3d892cac85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_a5a69a694cbbbad19084b8fae1da9caf18d514c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_ec61b5d432927aa2b5136f55957e86b24897739e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_95e49b278995fbfb8e0e3a9357cebbf6e403f6f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_eb59525c299a0389f36856368f565f15b991c403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ca6d26a6cf425615eefdc3eb3d7a0cde54d8b49">
+        <dex dex="/Users/applecustomer/Desktop/Android/optionMenu_Css_ContextMenu/AysncTaskProgressDailogDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e844bcee4701b88f72716883e5cde08410509f69/classes.dex" />
+    </item>
+
+</items>
